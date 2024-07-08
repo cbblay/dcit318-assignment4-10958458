@@ -1,0 +1,17 @@
+C:\Users\cyrus\source\repos\whiteCanvas\bin\Debug\net8.0-windows\whiteCanvas.exe
+C:\Users\cyrus\source\repos\whiteCanvas\bin\Debug\net8.0-windows\whiteCanvas.deps.json
+C:\Users\cyrus\source\repos\whiteCanvas\bin\Debug\net8.0-windows\whiteCanvas.runtimeconfig.json
+C:\Users\cyrus\source\repos\whiteCanvas\bin\Debug\net8.0-windows\whiteCanvas.dll
+C:\Users\cyrus\source\repos\whiteCanvas\bin\Debug\net8.0-windows\whiteCanvas.pdb
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.Form1.resources
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.csproj.GenerateResource.cache
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.AssemblyInfoInputs.cache
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.AssemblyInfo.cs
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.sourcelink.json
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.dll
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\refint\whiteCanvas.dll
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.pdb
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\whiteCanvas.genruntimeconfig.cache
+C:\Users\cyrus\source\repos\whiteCanvas\obj\Debug\net8.0-windows\ref\whiteCanvas.dll
